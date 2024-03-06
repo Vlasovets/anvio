@@ -33,3 +33,4 @@ anvio/data/misc/KEGG/
 anvio/data/misc/TRNA_TAXONOMY/
 
 data/*
+figures/html/*
